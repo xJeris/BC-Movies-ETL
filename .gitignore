@@ -3,3 +3,6 @@ __pycache__/
 
 # ignore api-key
 config.py
+
+# ignore large file
+ratings.csv
