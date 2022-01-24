@@ -1,0 +1,5 @@
+# Python
+__pycache__/
+
+# ignore api-key
+config.py
